@@ -4,7 +4,7 @@
 	<p align="center">I spent only 2 days doing this from scratch. With a mild motivation boost and some extra time I could’ve turned this into way much greater OSINT tool, than just simply a database lookup. If you would like me to continue this in future, feel free to donate me some BTC. You may find my Bitcoin wallet address below.</p>
  	<p align="center">
 		<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/language-Node%2Ejs-6cc24a" alt="Node.js" /></a>
-		<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/database-MySQL-00758F" alt="MySQL" /></a>
+		<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/database-MySQL-00758F" alt="MySQL" /></a>
 		<a href="https://github.com/discordjs/discord.js"><img src="https://img.shields.io/badge/dependency-discord%2Ejs-7289da" alt="discord.js" /></a>
 	</p>
 </div>
